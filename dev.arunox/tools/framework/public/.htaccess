@@ -1,0 +1,15 @@
+# Enable Rewrite Engine
+RewriteEngine On
+
+# Define the base directory
+RewriteBase /
+
+# Route all API requests to public/api.php
+RewriteCond %{REQUEST_URI} ^/api/ [NC]
+RewriteRule ^api/(.*)$ api.php [QSA,L]
+
+# Route all other requests to public/index.php
+RewriteCond %{REQUEST_URI} !^/index.php [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]

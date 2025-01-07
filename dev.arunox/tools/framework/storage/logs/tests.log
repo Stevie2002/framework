@@ -1,0 +1,13 @@
+Plugin class test failed: Failed opening required '/home2/www/b90/arunox/dev.arunox/tools/framework/config/../plugins/user/library/ARUNOX/Plugins/User.php' (include_path='.:/usr/local/php2484/lib/php')
+Theme class test failed: Failed opening required '/home2/www/b90/arunox/dev.arunox/tools/framework/config/../themes/default/library/ARUNOX/Themes/Default.php' (include_path='.:/usr/local/php2484/lib/php')
+Plugin class test failed: Failed opening required '/home2/www/b90/arunox/dev.arunox/tools/framework/config/../plugins/user/library/ARUNOX/Plugins/User.php' (include_path='.:/usr/local/php2484/lib/php')
+Theme class test failed: Failed opening required '/home2/www/b90/arunox/dev.arunox/tools/framework/config/../themes/default/library/ARUNOX/Themes/Default.php' (include_path='.:/usr/local/php2484/lib/php')
+Plugin class test failed: Call to undefined method TestFramework::assertTrue()
+Theme class test failed: syntax error, unexpected token "default", expecting identifier
+Plugin class test failed: Call to undefined method TestFramework::assertTrue()
+Theme class test failed: syntax error, unexpected token "default", expecting identifier
+Theme class test failed: syntax error, unexpected token "default", expecting identifier
+Theme class test failed: Class "ARUNOX\Themes\DefaultTheme" not found
+Theme class test failed: Class "ARUNOX\Themes\Default\DefaultTheme" not found
+Theme class test failed: Class "ARUNOX\Themes\Theme" not found
+Theme class test failed: Class "ARUNOX\Themes\Default\Theme" not found

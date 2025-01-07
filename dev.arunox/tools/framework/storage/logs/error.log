@@ -1,0 +1,29 @@
+[ERROR] Undefined array key "active" in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Themes.php on line 91
+[EXCEPTION] Missing dependency: user for theme default in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Themes.php on line 92
+[ERROR] Undefined array key "active" in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Themes.php on line 91
+[EXCEPTION] Missing dependency: user for theme default in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Themes.php on line 92
+[EXCEPTION] Dependency user is not active for theme default in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Themes.php on line 97
+[EXCEPTION] Dependency user is not active for theme default in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Themes.php on line 97
+[EXCEPTION] Dependency user is not active for theme default in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Themes.php on line 93
+[EXCEPTION] Dependency user is not active for theme default in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Themes.php on line 93
+[EXCEPTION] Dependency user is not active for theme default in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Themes.php on line 93
+[EXCEPTION] Dependency user is not active for theme default in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Themes.php on line 93
+[EXCEPTION] Dependency user is not active for theme default in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Themes.php on line 93
+[EXCEPTION] Dependency user is not active for theme default in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Themes.php on line 101
+[EXCEPTION] Class "ARUNOX\Core\PluginLoader" not found in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 35
+[EXCEPTION] Class "ARUNOX\Core\PluginLoader" not found in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 35
+[EXCEPTION] Class "ARUNOX\Core\PluginLoader" not found in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 35
+[EXCEPTION] Class "ARUNOX\Core\Plugin" not found in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 35
+[EXCEPTION] Call to undefined method ARUNOX\Core\Router::add() in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 39
+[EXCEPTION] Call to undefined method ARUNOX\Core\Router::add() in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 39
+[EXCEPTION] Call to undefined method ARUNOX\Core\Router::add() in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 39
+[EXCEPTION] Call to undefined method ARUNOX\Core\Router::add() in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 39
+[EXCEPTION] Call to undefined method ARUNOX\Core\Router::add() in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 39
+[EXCEPTION] Call to undefined method ARUNOX\Core\Router::add() in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 39
+[EXCEPTION] Call to undefined method ARUNOX\Core\Router::add() in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 39
+[EXCEPTION] Call to undefined method ARUNOX\Core\Router::add() in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 39
+[EXCEPTION] Using $this when not in object context in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Plugins.php on line 57
+[EXCEPTION] Using $this when not in object context in /home2/www/b90/arunox/dev.arunox/tools/framework/library/ARUNOX/Core/Plugins.php on line 43
+[EXCEPTION] Call to undefined method ARUNOX\Core\Router::add() in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 38
+[EXCEPTION] Call to undefined method ARUNOX\Core\Router::add() in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 38
+[EXCEPTION] Call to undefined method ARUNOX\Core\Router::add() in /home2/www/b90/arunox/dev.arunox/tools/framework/public/index.php on line 38
